@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog HTML CSS Project
